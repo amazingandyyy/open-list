@@ -1,4 +1,4 @@
-# open-info-sources
+# OpenList-information
 Open source my information consuming strategy.
 
 ## To Consume
