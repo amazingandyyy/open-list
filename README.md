@@ -5,7 +5,7 @@ Open source my information consuming strategy.
 
 ### WSJ Tech News Briefing Podcast
 
-The most precise piece of tech news informations, gives me a brief overview of what happened and what to catch in the teanding.
+The most precise piece of tech news informations, gives me a brief overview of what happened and what to catch in the tech world.
 
 ### The Pitch Podcast
 
