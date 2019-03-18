@@ -13,3 +13,11 @@ To learn coding from the most helpful and most-fit-to-yourself resources
 ### [udemy source list](https://github.com/amazingandyyy/open-list/blob/master/udemy.md)
 
 My evaluation of all the courses I took on udemy site.
+
+### [My prejcts/startups list](https://github.com/amazingandyyy/open-list/blob/master/my-startups.md)
+
+A list of where to find my past/current/future startup projects.
+
+### [My personal creation list]((https://github.com/amazingandyyy/open-list/blob/master/my-creations.md))
+
+A list of where to find my past/current/future creations.
