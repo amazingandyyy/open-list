@@ -1,4 +1,4 @@
-# open-list
+# open-list (continue adding, alpha version is planned to be released at the end of April)
 Open source a list of good resources for different purposes.
 
 
